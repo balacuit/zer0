@@ -365,7 +365,7 @@
 ### Diagonal Scaling
 *term*
 
- - horizontal and vertial scaling, with their powers combined.
+ - horizontal and vertical scaling, with their powers combined.
 
 ### I hope so
 *expression*
