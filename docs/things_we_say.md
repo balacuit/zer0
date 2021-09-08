@@ -308,6 +308,10 @@
 
 ## Tony
 
+### Tony's Rating System
+ - aka TRS
+ - aka Tony's 6-point Rating System
+ - a carefully thought-out ranking convention that measures the awesometude of food, services, odors, or any arbitrary thing, as ranked by Tony Guardado, on a scale from 1.0 to 6.0.
 
 ### ENHANCE!!!
 *exclamation*
